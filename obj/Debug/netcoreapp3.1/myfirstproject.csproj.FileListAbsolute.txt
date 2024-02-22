@@ -1,0 +1,13 @@
+C:\Users\kunva\myfirstproject\bin\Debug\netcoreapp3.1\myfirstproject.exe
+C:\Users\kunva\myfirstproject\bin\Debug\netcoreapp3.1\myfirstproject.deps.json
+C:\Users\kunva\myfirstproject\bin\Debug\netcoreapp3.1\myfirstproject.runtimeconfig.json
+C:\Users\kunva\myfirstproject\bin\Debug\netcoreapp3.1\myfirstproject.runtimeconfig.dev.json
+C:\Users\kunva\myfirstproject\bin\Debug\netcoreapp3.1\myfirstproject.dll
+C:\Users\kunva\myfirstproject\bin\Debug\netcoreapp3.1\myfirstproject.pdb
+C:\Users\kunva\myfirstproject\obj\Debug\netcoreapp3.1\myfirstproject.csprojAssemblyReference.cache
+C:\Users\kunva\myfirstproject\obj\Debug\netcoreapp3.1\myfirstproject.AssemblyInfoInputs.cache
+C:\Users\kunva\myfirstproject\obj\Debug\netcoreapp3.1\myfirstproject.AssemblyInfo.cs
+C:\Users\kunva\myfirstproject\obj\Debug\netcoreapp3.1\myfirstproject.csproj.CoreCompileInputs.cache
+C:\Users\kunva\myfirstproject\obj\Debug\netcoreapp3.1\myfirstproject.dll
+C:\Users\kunva\myfirstproject\obj\Debug\netcoreapp3.1\myfirstproject.pdb
+C:\Users\kunva\myfirstproject\obj\Debug\netcoreapp3.1\myfirstproject.genruntimeconfig.cache
